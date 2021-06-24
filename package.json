@@ -1,0 +1,19 @@
+{
+  "name": "AWS_Lambda-Vue",
+  "version": "1.0.0",
+  "description": "Booth で見つけた「5 日で構築する！？AWS Lambda と Vue.js でつくる位置情報付きの旅行記録サイト」",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lambda-multipart-parser": "^1.0.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.933.0"
+  }
+}
