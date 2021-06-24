@@ -1,5 +1,5 @@
 {
-  "name": "AWS_Lambda-Vue",
+  "name": "aws_lambda-vue",
   "version": "1.0.0",
   "description": "Booth で見つけた「5 日で構築する！？AWS Lambda と Vue.js でつくる位置情報付きの旅行記録サイト」",
   "main": "index.js",

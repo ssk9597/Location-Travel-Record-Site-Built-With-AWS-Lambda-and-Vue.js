@@ -1,0 +1,23 @@
+{
+  "name": "aws_lambda-vue",
+  "version": "1.0.0",
+  "description": "Booth で見つけた「5 日で構築する！？AWS Lambda と Vue.js でつくる位置情報付きの旅行記録サイト」",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssk9597/Location-Travel-Record-Site-Built-With-AWS-Lambda-and-Vue.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssk9597/Location-Travel-Record-Site-Built-With-AWS-Lambda-and-Vue.js/issues"
+  },
+  "homepage": "https://github.com/ssk9597/Location-Travel-Record-Site-Built-With-AWS-Lambda-and-Vue.js#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.933.0"
+  }
+}
